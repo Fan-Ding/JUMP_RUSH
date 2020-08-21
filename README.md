@@ -1,0 +1,2 @@
+# JUMP_RUSH
+GoGoGo!
